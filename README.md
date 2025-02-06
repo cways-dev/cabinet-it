@@ -4,8 +4,8 @@ To add information to this document over time, add:  date; your name or initials
 
 February 6, 2025; gds
 Project start date.
-The group gmail account is:  cways.dev@gmail.com, password: c++ways-dev25
-Github access username is:   cways-dev, password: same as for the gmail account.
+The group gmail account is cways.dev@gmail.com, password c++ways-dev25.
+Github access username is cways-dev, password is same as for the gmail account.
 
 
 
